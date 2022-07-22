@@ -3,12 +3,12 @@ import {getAuth, GoogleAuthProvider} from 'firebase/auth'
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBpHzO79STW6etC3RP9NFaCaqTRBw_kd3A",
-  authDomain: "crowdly-8456a.firebaseapp.com",
-  projectId: "crowdly-8456a",
-  storageBucket: "crowdly-8456a.appspot.com",
-  messagingSenderId: "966369452676",
-  appId: "1:966369452676:web:9e122ba60ffae69d0198d1"
+  apiKey: "AIzaSyBo6hj0pX5lgH5LYMEJImNr2DumiGlpOyw",
+  authDomain: "crowdly-912ef.firebaseapp.com",
+  projectId: "crowdly-912ef",
+  storageBucket: "crowdly-912ef.appspot.com",
+  messagingSenderId: "851222400496",
+  appId: "1:851222400496:web:cfadca0cd60012c5516135"
 };
 
 const app = initializeApp(firebaseConfig);
