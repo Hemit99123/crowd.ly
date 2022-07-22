@@ -26,7 +26,7 @@ function Home() {
   const comments = results3.map((results3) => {
     return(
         <div key={results3.id} className='scroll'>
-            <p>{results3.displayName}</p>
+            <h3>{results3.displayName}</h3>
             <p>{results3.comment}</p>
         </div>
 
